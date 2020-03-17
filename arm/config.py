@@ -2,6 +2,7 @@
 
 import os
 import yaml
+import re
 
 yamlfile = "/etc/arm/arm.yaml"
 
